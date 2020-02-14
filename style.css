@@ -3,8 +3,8 @@
   margin: 0;
   /* box-sizing: border-box; */
 }
-main{
-  height: 100vw;
+body{
+  /* height: 100vw; */
   background-color: #1e252d;
 }
 section{

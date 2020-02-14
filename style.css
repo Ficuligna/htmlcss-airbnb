@@ -103,3 +103,15 @@ h1{
   opacity: 1;
   transition: 0.5s;
 }
+footer{
+  color: ;
+  position: fixed;
+  top: 4vw;
+  right: 12.5vw;
+  font-size: 1.2vw;
+  font-style: italic;
+  transform: translate(50% , -50%);
+}
+footer span{
+  font-weight: 800;
+}

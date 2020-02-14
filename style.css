@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+section{
+
+}
+article{
+  width: 100%;
+  height: 100vh;
+}
+article:first-child{
+  background-image: url("immagini/hawaii.jfif");
+  background-size: cover;
+}
+article:nth-child(2){
+  background-image: url("immagini/newzeland.jfif");
+  background-size: cover;
+}
+article:nth-child(3){
+  background-image: url("immagini/maldive.jfif");
+  background-size: cover;
+}

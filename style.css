@@ -99,7 +99,7 @@ h1{
   border-radius: 0 0 20px 20px;
 }
 #mutendina:hover a{
-  display: block;
+  /* display: block; */
   opacity: 1;
   transition: 0.5s;
 }
